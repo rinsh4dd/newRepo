@@ -5580,11 +5580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rinsh\\source\\repos\\ShoeCartBackend\\ShoeCartBackend\\ShoeCartBackend.csproj",
-      "projectName": "ShoeCartBackend",
-      "projectPath": "C:\\Users\\rinsh\\source\\repos\\ShoeCartBackend\\ShoeCartBackend\\ShoeCartBackend.csproj",
+      "projectUniqueName": "C:\\Users\\rinsh\\OneDrive\\Desktop\\vscode\\GitAutoLogger\\newRepo\\ServentoBackend.csproj",
+      "projectName": "ServentoBackend",
+      "projectPath": "C:\\Users\\rinsh\\OneDrive\\Desktop\\vscode\\GitAutoLogger\\newRepo\\ServentoBackend.csproj",
       "packagesPath": "C:\\Users\\rinsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rinsh\\source\\repos\\ShoeCartBackend\\ShoeCartBackend\\obj\\",
+      "outputPath": "C:\\Users\\rinsh\\OneDrive\\Desktop\\vscode\\GitAutoLogger\\newRepo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
