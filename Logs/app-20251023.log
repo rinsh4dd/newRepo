@@ -1,0 +1,20 @@
+2025-10-23 09:45:18.648 +05:30 [INF] Starting up ShoeCartBackend...
+2025-10-23 09:45:19.627 +05:30 [INF] User profile is available. Using 'C:\Users\rinsh\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-10-23 09:45:20.241 +05:30 [INF] Now listening on: http://localhost:58477
+2025-10-23 09:45:20.247 +05:30 [INF] Now listening on: https://localhost:58476
+2025-10-23 09:45:20.446 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-23 09:45:20.448 +05:30 [INF] Hosting environment: Development
+2025-10-23 09:45:20.450 +05:30 [INF] Content root path: C:\Users\rinsh\source\repos\ShoeCartBackend\ShoeCartBackend
+2025-10-23 09:45:23.760 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:58477/ - null null
+2025-10-23 09:45:24.003 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:58477/ - 307 0 null 253.7844ms
+2025-10-23 09:45:24.112 +05:30 [INF] Request starting HTTP/2 GET https://localhost:58476/ - null null
+2025-10-23 09:45:24.179 +05:30 [INF] Executing endpoint 'HTTP: GET /'
+2025-10-23 09:45:24.195 +05:30 [INF] Executing RedirectResult, redirecting to /swagger.
+2025-10-23 09:45:24.197 +05:30 [INF] Executed endpoint 'HTTP: GET /'
+2025-10-23 09:45:24.200 +05:30 [INF] Request finished HTTP/2 GET https://localhost:58476/ - 302 0 null 88.1375ms
+2025-10-23 09:45:24.404 +05:30 [INF] Request starting HTTP/2 GET https://localhost:58476/_framework/aspnetcore-browser-refresh.js - null null
+2025-10-23 09:45:24.405 +05:30 [INF] Request starting HTTP/2 GET https://localhost:58476/_vs/browserLink - null null
+2025-10-23 09:45:24.447 +05:30 [INF] Request finished HTTP/2 GET https://localhost:58476/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 42.7852ms
+2025-10-23 09:45:24.527 +05:30 [INF] Request finished HTTP/2 GET https://localhost:58476/_vs/browserLink - 200 null text/javascript; charset=UTF-8 122.7556ms
+2025-10-23 09:45:24.590 +05:30 [INF] Request starting HTTP/2 GET https://localhost:58476/swagger/v1/swagger.json - null null
+2025-10-23 09:45:24.628 +05:30 [INF] Request finished HTTP/2 GET https://localhost:58476/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 38.6331ms
